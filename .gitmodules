@@ -1,0 +1,3 @@
+[submodule "Crud_FrontEnd"]
+	path = Crud_FrontEnd
+	url = https://github.com/xgile-it/Crud_FrontEnd.git
